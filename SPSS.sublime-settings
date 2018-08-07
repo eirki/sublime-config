@@ -1,5 +1,6 @@
 // These settings override both User and Default settings for the SPSS syntax
 {
+	"default_line_ending": "windows",
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": false
 }
