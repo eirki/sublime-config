@@ -1,0 +1,5 @@
+// These settings override both User and Default settings for the SPSS syntax
+{
+	"translate_tabs_to_spaces": false,
+	"trim_trailing_white_space_on_save": false
+}

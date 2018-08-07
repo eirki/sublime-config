@@ -1,0 +1,15 @@
+{
+    "oop_mode": "tcp",
+    "codeintel_language_settings": {
+        "Python": {
+            "python": "C:\\Windows\\py.exe",
+            "pythonExtraPaths": ["c:/python36/lib", "c:/python36/lib/site-packages"],
+            "codeintel_scan_extra_dir": [
+            ],
+            "codeintel_scan_files_in_project": true,
+            "codeintel_selected_catalogs": [],
+            "env": {
+            }
+        }
+    }
+}

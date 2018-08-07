@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Case Conversion",
+		"Increment Selection",
+		"MoveTab",
+		"Numix Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"PyCover",
+		"requirementstxt",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-mypy",
+		"SublimeLinter-flake8",
+		"Terminal",
+		"TodoTxt Syntax",
+		"Tomorrow Color Schemes"
+	]
+}

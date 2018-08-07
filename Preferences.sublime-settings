@@ -1,0 +1,46 @@
+{
+	"always_show_minimap_viewport": true,
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.zip",
+		"*.doc*",
+		"*.xls*",
+		"*.sav",
+		"*.por",
+		"*.sas7bdat",
+		"*.dta",
+		"*.pdf"
+	],
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
+	"default_line_ending": "windows",
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"fold_buttons": false,
+	"font_size": 10,
+	"highlight_line": true,
+	"highlight_modified_tabs": false,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"index_files": true,
+	"preview_on_click": false,
+	"shift_tab_unindent": true,
+	"show_definitions": false,
+	"show_encoding": true,
+	"spacegray_fileicons": true,
+	"theme": "Numix Dark Light Blue.sublime-theme",
+	"trim_trailing_white_space_on_save": true
+}

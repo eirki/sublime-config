@@ -1,0 +1,8 @@
+{
+	"translate_tabs_to_spaces": false,
+    "word_wrap": true,
+    // The number of spaces a tab is considered equal to
+    "tab_size": 2,
+    "detect_indentation": false,
+	"trim_trailing_white_space_on_save": false
+}

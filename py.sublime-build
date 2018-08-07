@@ -1,0 +1,10 @@
+{
+	"file_regex": "^[ ]*File \"(…*?)\", line ([0–9]*)",
+	"selector": "source.python",
+	"windows": {
+		"cmd": ["C:/Windows/py.exe", "-u", "$file"]
+	  },
+	"linux": {
+	    "cmd": ["python3", "-u", "$file"],
+	}
+}
