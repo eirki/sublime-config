@@ -1,5 +1,6 @@
 {
   // Replace with your own path to cmder.exe
-  "terminal": "C:\\Users\\ebs\\Dropbox\\Programmer\\cmder\\Cmder.exe",
+  // mklink /D /J "C:\cmder" "C:\path\to\cmder"
+  "terminal": "C:/cmder/Cmder.exe",
   "parameters": ["/START", "%CWD%"]
 }
