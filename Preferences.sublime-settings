@@ -18,7 +18,7 @@
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
-    "default_line_ending": "unix",
+	"default_line_ending": "unix",
 	"dictionary": "Packages/Language - English/en_US.dic",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
@@ -28,6 +28,7 @@
 	"highlight_modified_tabs": false,
 	"ignored_packages":
 	[
+		"LSP",
 		"Markdown",
 		"Vintage"
 	],

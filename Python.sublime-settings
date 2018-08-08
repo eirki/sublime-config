@@ -1,4 +1,5 @@
 {
 	"default_line_ending": "unix",
+	"auto_complete_triggers": [ {"selector": "source.python", "characters": "."} ],
     "translate_tabs_to_spaces": true
 }

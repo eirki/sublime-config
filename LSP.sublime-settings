@@ -1,0 +1,26 @@
+{
+	"only_show_lsp_completions": true,
+	"clients":
+	{
+		"pyls":
+		{
+			"command":
+			[
+				"pyls"
+			],
+			"enabled": true,
+			"languageId": "python",
+			"scopes":
+			[
+				"source.python"
+			],
+			"settings":
+			{
+			},
+			"syntaxes":
+			[
+				"Packages/Python/Python.sublime-syntax"
+			]
+		}
+	}
+}
