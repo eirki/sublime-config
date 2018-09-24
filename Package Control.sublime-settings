@@ -12,6 +12,7 @@
 		"MoveTab",
 		"Notes",
 		"Numix Theme",
+		"Origami",
 		"Package Control",
 		"PackageResourceViewer",
 		"PyCover",
@@ -20,6 +21,7 @@
 		"SublimeLinter",
 		"SublimeLinter-contrib-mypy",
 		"SublimeLinter-flake8",
+		"SublimeREPL",
 		"Terminal",
 		"TodoTxt Syntax",
 		"Tomorrow Color Schemes"
