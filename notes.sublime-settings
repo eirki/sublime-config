@@ -1,7 +1,8 @@
 {
 	"extensions":
 	[
-		"notes"
+		"notes",
+		"txt"
 	],
 	"tab_size": 2
 }
