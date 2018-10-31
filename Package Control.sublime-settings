@@ -19,6 +19,7 @@
 		"requirementstxt",
 		"SendCode",
 		"SideBarEnhancements",
+		"SublimeHermes",
 		"SublimeLinter",
 		"SublimeLinter-contrib-mypy",
 		"SublimeLinter-flake8",
@@ -26,5 +27,9 @@
 		"Terminal",
 		"TodoTxt Syntax",
 		"Tomorrow Color Schemes"
+	],
+	"repositories":
+	[
+		"https://github.com/eirki/SublimeHermes"
 	]
 }
