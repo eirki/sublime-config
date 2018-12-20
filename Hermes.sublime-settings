@@ -1,0 +1,3 @@
+{
+  "output_style": "panel" // Set to 'inline' to show output in current view, like Jupyter, set to 'panel' to show output in Sublime's output panel
+}
