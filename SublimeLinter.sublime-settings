@@ -8,7 +8,6 @@
 		"mypy":
 		{
 			"@disable": false,
-			"max-line-length": 88,
 			"args":
 			[
 				"--ignore-missing-imports"
